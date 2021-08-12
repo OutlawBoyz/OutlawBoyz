@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="outlaw" name="[COLOR orange]Outlaw[/COLOR] Repo" version="1.0" provider-name="OutlawBoyz">
+<addon id="OutlawBoyz" name="[COLOR orange]Outlaw[/COLOR] Repo" version="1.0" provider-name="OutlawBoyz">
     <extension point="xbmc.addon.repository" name="Outlaw Repo">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/OutlawBoyz/OutlawBoyz/master/repo/zips/addons.xml</info>
